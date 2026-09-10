@@ -1,0 +1,12 @@
+# Arquivos compilados do Java
+*.class
+
+# Pastas de arquivos geradas pela aplicação
+servidor_arquivos/
+cliente_arquivos/
+
+# Pastas de IDEs (caso você use Eclipse, IntelliJ ou VS Code)
+.idea/
+.vscode/
+bin/
+out/
